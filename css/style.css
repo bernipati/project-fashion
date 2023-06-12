@@ -161,4 +161,10 @@
       grid-row: 1;
       z-index: 1;
     }
+    main .title p{
+      font-size: 7.75rem;
+    }
+    main .image{
+      grid-row:  1/span2;
+    }
   }
